@@ -13,5 +13,8 @@ int j=20;
 //
 //
 //
+String s1="Amar";
+String s2="Amit";
+
 
 }
